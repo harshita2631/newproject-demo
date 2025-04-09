@@ -1,2 +1,3 @@
 # newproject-demo
-This is my first project
+This is my first git repositry.
+Author-Harshita Singh
